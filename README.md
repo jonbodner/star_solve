@@ -1,7 +1,7 @@
 star_solve
 ==========
 
-A simple brute-force solver for 6-pointed Magic Stars.  See http://recmath.org/Magic%20Squares/order6.htm for details.
+A simple brute-force solver for 6-pointed Magic Stars.  See http://recmath.org/Magic%20Squares/order6.htm for a description of the puzzle.
 
 Probably interesting for the channel-based recursive permutation calculator in go, complete with caching support.
 I plan to break that code into its own project eventually.
